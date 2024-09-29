@@ -119,7 +119,7 @@ const Register = () => {
                   type="submit"
                   class="w-full text-white bg-yellow-600 hover:bg-transparent hover:text-yellow-500 hover:font-bold hover:text-md focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                 >
-                  Sign in
+                  Sign Up
                 </button>
               </form>
             </div>

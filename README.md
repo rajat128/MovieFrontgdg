@@ -14,7 +14,7 @@ Tailwind CSS: For styling the application.<br/>
 Axios: For making HTTP requests to the backend API.<br/>
 
 # Clone the repository:<br/>
-git clone https://github.com/yourusername/movies-app-frontend.git<br/>
+git clone https://github.com/rajat128/MovieFrontgdg.git <br/>
 cd movies-app-frontend<br/>
 
 # Usage<br/>
